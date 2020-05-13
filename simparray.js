@@ -11,3 +11,5 @@ for(let item of myArr){
 for(let item of myArrPro){
     console.log(item);
 }
+
+console.log(myArrPro[2]);
