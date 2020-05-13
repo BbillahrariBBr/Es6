@@ -1,7 +1,7 @@
 var myArr = ["A", "B", "C"];
 
 //using array constryuctor
-var myArrPro = new Array("D","E", "F");
+var myArrPro = new Array("D","E", "F","G");
 
 console.log(myArr[1]);
 
@@ -12,4 +12,4 @@ for(let item of myArrPro){
     console.log(item);
 }
 
-console.log(myArrPro[2]);
+console.log(myArrPro[3]);
